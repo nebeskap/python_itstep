@@ -71,7 +71,7 @@ def factorial(n):
         result *= i
     return result
 
-# Приклад використання
+
 n = int(input("Введіть число n: "))
 print(f"Факторіал {n}! = {factorial(n)}")
 
